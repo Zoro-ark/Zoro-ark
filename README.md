@@ -1,5 +1,5 @@
 <!--**Zoro-ark/Zoro-ark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-![bgGif](https://raw.githubusercontent.com/Zoro-ark/Zoro-ark/main/assets/bgGif.gif)
+![bgGif](./assets/bgGif.gif)
 
 <img alt="Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hello World! I'm Amber</h2>
 
